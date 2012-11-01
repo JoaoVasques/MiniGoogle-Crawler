@@ -1,0 +1,2 @@
+serviceClass: pt.utl.ist.cn.crawler.client.CrawlingService
+path: 2DD11556A80AA02C0F5F5B3569C8E0AD.gwt.rpc
